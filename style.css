@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    
+    color: #000;
+}
+
+header{
+    background: #de1465;
+    text-align: center;
+    width: auto;
+    margin: auto;
+    padding: 25px;
+    color: white;
+}
+
+.columns{
+    display:flex;
+}
+
+.vjestine{
+    margin: 25px 0px;
+    width: auto;
+    margin: 50px auto;
+    background: #d1bcc5;
+}
+
+
+.intro{
+    background: #d1bcc5;
+    width: 400px;
+    margin: 50px auto;
+    padding: 25px;
+    text-align: center;
+}
+
+
+.column{
+    margin: 25px 10px;
+}
+
+footer{
+    background: #de1465;
+    text-align: center;
+    width: auto;
+    padding: 10px;
+    border: solid 5px darkorchid;
+    color: white;
+}
+
